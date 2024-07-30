@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My landing page</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="banner">
+    <div class="container">
+      <div class="banner-content">
+        <h1>Welcome to Our Landing Page</h1>
+        <p>Discover our amazing product and how it works!</p>
+        <a href="#how-it-works">Learn More</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <h2>How It Works</h2>
+    <div class="cards">
+      <div class="card-apply">
+        <img src="images/apply.svg" alt="Apply">
+        <div class="card-infos">
+          <h2>Apply</h2>
+          <p>Apply for our service quickly and easily.</p>
+        </div>
+      </div>
+      <div class="card-learn">
+        <img src="images/learn.svg"
